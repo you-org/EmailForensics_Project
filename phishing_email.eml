@@ -1,0 +1,25 @@
+Received: from [192.168.1.100] (unknown [10.0.2.15])
+by mail.example.com with SMTP
+From: "Microsoft Account Team" <security@m1crosoft-support.com>
+To: victim@example.com
+Subject: Action required: unusual sign-in attempt
+MIME-Version: 1.0
+Content-Type: text/html
+<html>
+<body>
+<p>Hello,</p>
+
+<p>We noticed an unusual sign-in attempt on your Microsoft account from a new device.</p>
+
+<p>To keep your account secure, we recommend that you review this activity as soon as possible.</p>
+
+<p>
+<a href="http://10.0.2.15/fake-login">Review recent activity</a>
+</p>
+
+<p>If this was you, no further action is required.</p>
+
+<p>Thank you,<br>
+Microsoft Account Security Team</p>
+</body>
+</html>
