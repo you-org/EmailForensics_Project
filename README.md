@@ -1,4 +1,4 @@
-# Email Forensics – Post-Phishing Analysis Tool (Projet 7)
+# Email Forensics – Post-Phishing Analysis Tool
 
 This project implements an automated forensic analysis tool for simulated phishing emails.
 It reproduces the workflow of a SOC analyst handling a reported malicious email in a controlled lab environment.
